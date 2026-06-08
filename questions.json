@@ -1,0 +1,181 @@
+[
+  {
+    "q": "How many times did Abraham Lincoln and Stephan Douglas hold a debate?",
+    "a": [
+      { "t": "7", "p": 1 },
+      { "t": "4", "p": -1 },
+      { "t": "9", "p": -1 }
+    ]
+  },
+  {
+    "q": "Which party was centered around it's opposition to slavery?",
+    "a": [
+      { "t": "Federalists", "p": -2 },
+      { "t": "Democrats", "p": -1 },
+      { "t": "Republicans", "p": 1 }
+    ]
+  },
+  {
+    "q": "Which political party nominated John Breckinridge for the election of 1860?",
+    "a": [
+      { "t": "Republicans", "p": -1 },
+      { "t": "Democrats", "p": -1 },
+      { "t": "Constitutional Unionists", "p": 1 }
+    ]
+  },
+  {
+    "q": "Who won the 1860 election?",
+    "a": [
+      { "t": "Abraham Lincoln", "p": 1 },
+      { "t": "Henry Clay", "p": -2 },
+      { "t": "Stephan Douglas", "p": -1 }
+    ]
+  },
+  {
+    "q": "When, and what state seceded from the Union first?",
+    "a": [
+      { "t": "1860, South Carolina", "p": 1 },
+      { "t": "1862, Georgia", "p": -1 },
+      { "t": "1859, New York", "p": -200 }
+    ]
+  },
+  {
+    "q": "What did senator John Crittenden suggest to ease conflict in 1860?",
+    "a": [
+      { "t": "Protect slavery below Arkansas' Northern border", "p": 1 },
+      { "t": "Go to war with the North", "p": -5 },
+      { "t": "Use propaganda to remove Abraham Lincoln from presidency", "p": -1 }
+    ]
+  },
+  {
+    "q": "Which of these states had seceded by February, 1861?",
+    "a": [
+      { "t": "South Carolina, Texas, Louisiana", "p": 1 },
+      { "t": "Alabama, Virginia, South Carolina", "p": -1 },
+      { "t": "New York, Virginia, Louisiana", "p": -10 }
+    ]
+  },
+  {
+    "q": "Who was president before Abraham Lincoln?",
+    "a": [
+      { "t": "James Buchanan", "p": 1 },
+      { "t": "Stephan Douglas", "p": -1 },
+      { "t": "South Carolina", "p": -200 }
+    ]
+  },
+  {
+    "q": "Abraham Lincoln was the ___ president of the United States",
+    "a": [
+      { "t": "16th", "p": 1 },
+      { "t": "17th", "p": -1 },
+      { "t": "14th", "p": -1 }
+    ]
+  },
+  {
+    "q": "What battle began the Civil War?",
+    "a": [
+      { "t": "The Battle of Fort Sumter", "p": 1 },
+      { "t": "The Bear Flag Revolt", "p": -1 },
+      { "t": "The Battle of Gettysburg", "p": -1 }
+    ]
+  },
+  {
+    "q": "What did the seceded states call themselves?",
+    "a": [
+      { "t": "The Confederacy of America", "p": -1 },
+      { "t": "They didn't have a name", "p": -2 },
+      { "t": "The Confederate States of America", "p": 1 }
+    ]
+  },
+  {
+    "q": "Who was the president of the Confederacy?",
+    "a": [
+      { "t": "Jefferson Davis", "p": 1 },
+      { "t": "Stephan Douglas", "p": -1 },
+      { "t": "Abraham Lincoln", "p": -2 }
+    ]
+  },
+  {
+    "q": "How long did the Civil War last?",
+    "a": [
+      { "t": "4 years", "p": 1 },
+      { "t": "Stephan", "p": -10 },
+      { "t": "6 years", "p": -1 },
+      { "t": "5 years", "p": -1 }
+    ]
+  },
+  {
+    "q": "Which group was more populated?",
+    "a": [
+      { "t": "The Unionists", "p": 1 },
+      { "t": "The Confederates", "p": -1 }
+    ]
+  },
+  {
+    "q": "How many people died in the civil war?",
+    "a": [
+      { "t": "600,000", "p": 1 },
+      { "t": "Stephan", "p": -10 },
+      { "t": "700,000", "p": -1 },
+      { "t": "1,000,000", "p": -1 }
+    ]
+  },
+  {
+    "q": "Which states had difficulty choosing a side?",
+    "a": [
+      { "t": "Delaware, Maryland, Kentucky, Missouri", "p": 1 },
+      { "t": "Delaware, Stephan, Maryland, Missouri", "p": -5 },
+      { "t": "South Carolina, Maryland, Delaware, Missouri", "p": -3 },
+      { "t": "Maryland, Delaware, Missouri, New York", "p": -5 }
+    ]
+  },
+  {
+    "q": "The border states were slave states.",
+    "a": [
+      { "t": "True", "p": 2 },
+      { "t": "False", "p": -1 }
+    ]
+  },
+  {
+    "q": "Which side had a stronger fighting spirit?",
+    "a": [
+      { "t": "The Unionists", "p": -1 },
+      { "t": "Stephan", "p": -10 },
+      { "t": "The Confederates", "p": 1 },
+      { "t": "THe Constitutional Unionists", "p": -2 }
+    ]
+  },
+  {
+    "q": "What was the Confederacy's goal?",
+    "a": [
+      { "t": "To become a seperate nation", "p": 1 },
+      { "t": "To destroy Stephan", "p": -10 },
+      { "t": "To destroy the Union", "p": -1 }
+    ]
+  },
+  {
+    "q": "What was the Union's goal?",
+    "a": [
+      { "t": "To reunite America", "p": 1 },
+      { "t": "To destroy Stephan", "p": -10 },
+      { "t": "To destroy the Confederacy", "p": -1 }
+    ]
+  },
+  {
+    "q": "What was the Confederacy's strategy?",
+    "a": [
+      { "t": "Defensive", "p": 1 },
+      { "t": "Neutral", "p": -2 },
+      { "t": "Offensive", "p": -1 }
+    ]
+  },
+  {
+    "q": "What plan did Union General Winfield Scott propose?",
+    "a": [
+      { "t": "The Anaconda Plan", "p": 1 },
+      { "t": "Operation Stephan", "p": -10 },
+      { "t": "The Coil Plan", "p": -1 },
+      { "t": "The Lock Plan", "p": -1 }
+    ]
+  }
+]
