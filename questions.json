@@ -132,7 +132,7 @@
   {
     "q": "The border states were slave states.",
     "a": [
-      { "t": "True", "p": 2 },
+      { "t": "True", "p": 1 },
       { "t": "False", "p": -1 }
     ]
   },
