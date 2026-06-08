@@ -177,5 +177,13 @@
       { "t": "The Coil Plan", "p": -1 },
       { "t": "The Lock Plan", "p": -1 }
     ]
+  },
+  {
+    "q": "The states of Delaware, Maryland, Kentucky, Missouri were called ___.",
+    "a": [
+      { "t": "The Border States", "p": 1 },
+      { "t": "The Midwest States", "p": -1 },
+      { "t": "The Slave States", "p": -3 }
+    ]
   }
 ]
