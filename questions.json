@@ -64,7 +64,7 @@
     ]
   },
   {
-    "q": "Abraham Lincoln was the ___ president of the United States",
+    "q": "Abraham Lincoln was the ___ president of the United States.",
     "a": [
       { "t": "16th", "p": 1 },
       { "t": "17th", "p": -1 },
