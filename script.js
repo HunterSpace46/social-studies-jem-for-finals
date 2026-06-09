@@ -22,7 +22,7 @@ answerButtons[2].onclick = () => answerClicked(questions[qI].a[2].p);
 answerButtons[3].onclick = () => answerClicked(questions[qI].a[3].p);
 answerButtons[4].onclick = () => answerClicked(questions[qI].a[4].p);
 
-const winningScore = 10;
+const winningScore = 3;
 
 let p1Score = 0;
 let p2Score = 0;
@@ -32,15 +32,28 @@ let qI = 0;
 answerClicked(0);
 
 function gameWon(winningPlayer) {
-  answerButtons[0].style.display = "none";
+  answerButtons[0].style.display = "";
   answerButtons[1].style.display = "none";
   answerButtons[2].style.display = "none";
+  answerButtons[3].style.display = "none";
+  answerButtons[4].style.display = "none";
 
-  p.style.display = "none";
-  p1Txt.style.display = "none";
-  p2Txt.style.display = "none";
+  p.innerText = "";
+  p1Txt.innerText = "";
+  p2Txt.innerText = "";
 
   questionTxt.innerText = `Player ${winningPlayer + 1} wins!`;
+
+  answerButtons[0].innerText = "Rematch >:)";
+  answerButtons[0].onclick = function() {
+    p1Score = 0;
+    p2Score = 0;
+    player = 0;
+    qI = 0;
+      
+    answerButtons[0].onclick = () => answerClicked(questions[qI].a[0].p);
+    answerClicked(0); answerClicked(0);
+  }
 }
 
 function answerClicked(score) {
