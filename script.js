@@ -22,7 +22,7 @@ answerButtons[2].onclick = () => answerClicked(questions[qI].a[2].p);
 answerButtons[3].onclick = () => answerClicked(questions[qI].a[3].p);
 answerButtons[4].onclick = () => answerClicked(questions[qI].a[4].p);
 
-const winningScore = 3;
+const winningScore = 10;
 
 let p1Score = 0;
 let p2Score = 0;
