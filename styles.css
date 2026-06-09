@@ -47,19 +47,23 @@ body{
   text-align: center;
   font-size: 20px;
   padding: 10px;
-  margin: 5px;
+  margin: 10px;
   border-radius: 15px;
   color: white;
-  background-color: #4E1414;
+  background-color: #404040;
+  box-shadow: 0px 10px #909090;
   transition: all 0.2s;
 }
 
 .answer:hover {
-  transform: scale(1.1);
+  box-shadow: 0px 15px #909090;
+  margin-top: 5px;
+  margin-bottom: 15px;
 }
 
 .answer:active {
   transition: all 0s;
-  transform: scale(0.9);
-  background-color: red;
+  box-shadow: 0px 0px #FFFFFF;
+  margin-top: 20px;
+  margin-bottom: 0px;
 }
