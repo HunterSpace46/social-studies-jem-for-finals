@@ -185,5 +185,100 @@
       { "t": "The Midwest States", "p": -1 },
       { "t": "The Slave States", "p": -3 }
     ]
+  },
+  {
+    "q": "How old was the average Civil War soldier?",
+    "a": [
+      { "t": "In their 20s", "p": 1 },
+      { "t": "In their teens", "p": -1 },
+      { "t": "In their 30s", "p": -2 }
+    ]
+  },
+  {
+    "q": "How many Civil War soldiers were under 18 years old?",
+    "a": [
+      { "t": "Tens of thousands", "p": 1 },
+      { "t": "Thousands", "p": -1 },
+      { "t": "Hundreds of thousands", "p": -3 },
+      { "t": "Hundreds", "p": -2 },
+      { "t": "Hardly any", "p": -3 }
+    ]
+  },
+  {
+    "q": "What did the North expect of the war?",
+    "a": [
+      { "t": "A quick victory", "p": 1 },
+      { "t": "A difficult war", "p": -1 },
+      { "t": "An immediate loss", "p": -2 }
+    ]
+  },
+  {
+    "q": "What did the South expect of the war?",
+    "a": [
+      { "t": "A quick victory", "p": 1 },
+      { "t": "A difficult war", "p": -1 },
+      { "t": "An immediate loss", "p": -2 }
+    ]
+  },
+  {
+    "q": "What were the Confederate soldiers also known as?",
+    "a": [
+      { "t": "Rebels", "p": 1 },
+      { "t": "Yankees", "p": -1 },
+      { "t": "Stephens", "p": -10 },
+      { "t": "Red Soxs", "p": -1 }
+    ]
+  },
+  {
+    "q": "What were the Union soldiers also known as?",
+    "a": [
+      { "t": "Rebels", "p": -1 },
+      { "t": "Yankees", "p": 1 },
+      { "t": "Pikachus", "p": -10 },
+      { "t": "Partisans", "p": -2 }
+    ]
+  },
+  {
+    "q": "What did soldiers write about in letters to their families?",
+    "a": [
+      { "t": "Discomfort, sickness, fear", "p": 1 },
+      { "t": "Partying, happiness, health", "p": -5 },
+      { "t": "The horrifying Stephens", "p": -10 },
+      { "t": "Boredom, rest, horror", "p": -2 }
+    ]
+  },
+  {
+    "q": "A soldier's life was always horrible.",
+    "a": [
+      { "t": "False", "p": 1 },
+      { "t": "True", "p": -1 }
+    ]
+  },
+  {
+    "q": "How many Union soldiers deserted?",
+    "a": [
+      { "t": "1 / 11", "p": 1 },
+      { "t": "1 / 8", "p": -1 },
+      { "t": "1 / 1", "p": -5 },
+      { "t": "1 / 10", "p": -1 }
+    ]
+  },
+  {
+    "q": "How many Confederate soldiers deserted?",
+    "a": [
+      { "t": "1 / 11", "p": -1 },
+      { "t": "1 / 8", "p": 1 },
+      { "t": "1 / 1", "p": -5 },
+      { "t": "1 / 10", "p": -1 }
+    ]
+  },
+  {
+    "q": "What was the first major battle of the Civil War?",
+    "a": [
+      { "t": "The Battle of Fort Sumter", "p": -2 },
+      { "t": "The Battle of Gettysburg", "p": -1 },
+      { "t": "The Bear Flag Revolt", "p": -2 },
+      { "t": "The Battle of Bull Run", "p": 1 }
+    ]
   }
 ]
