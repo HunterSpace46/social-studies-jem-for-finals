@@ -108,7 +108,8 @@
     "q": "Which group was more populated?",
     "a": [
       { "t": "The Unionists", "p": 1 },
-      { "t": "The Confederates", "p": -1 }
+      { "t": "The Confederates", "p": -1 },
+      { "t": "The Partisans", "p": -2 }
     ]
   },
   {
