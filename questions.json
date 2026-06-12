@@ -8,6 +8,15 @@
     ]
   },
   {
+    "q": "What did the people against slavery call themselves?",
+    "a": [
+      { "t": "Destruction", "p": -2 },
+      { "t": "Shermans", "p": -1 },
+      { "t": "Abolitionists", "p": 1 }
+      { "t": "Republican", "p": -1 },
+    ]
+  },
+  {
     "q": "Which party was centered around it's opposition to slavery?",
     "a": [
       { "t": "Federalists", "p": -2 },
