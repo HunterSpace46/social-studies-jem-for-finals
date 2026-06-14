@@ -215,7 +215,7 @@
     ]
   },
   {
-    "q": "What did the North expect of the war?",
+    "q": "What did the North expect of the war before it began?",
     "a": [
       { "t": "A quick victory", "p": 1 },
       { "t": "A difficult war", "p": -1 },
@@ -223,7 +223,7 @@
     ]
   },
   {
-    "q": "What did the South expect of the war?",
+    "q": "What did the South expect of the war before it began?",
     "a": [
       { "t": "A quick victory", "p": 1 },
       { "t": "A difficult war", "p": -1 },
