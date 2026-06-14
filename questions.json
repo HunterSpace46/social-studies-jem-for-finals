@@ -12,8 +12,8 @@
     "a": [
       { "t": "Destruction", "p": -2 },
       { "t": "Shermans", "p": -1 },
-      { "t": "Abolitionists", "p": 1 }
-      { "t": "Republican", "p": -1 },
+      { "t": "Abolitionists", "p": 1 },
+      { "t": "Republican", "p": -1 }
     ]
   },
   {
